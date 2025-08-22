@@ -1,0 +1,110 @@
+.g1{
+    color: rgb(0, 83, 150);
+    text-align: center;
+}
+body {
+    background-color: yellow;
+}
+main img{
+    width: 300px;
+}
+.text1{
+    color: blue;
+}
+.Scratch{
+    border: 2px solid royalblue;
+    text-decoration: none;
+    background-color: royalblue;
+    border-radius: 15px;
+    color: black;
+    text-align: center;
+}
+h3{
+    background-color: yellowgreen;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+}
+nav{
+    background-color: darkgrey;
+    font-size: 20px;
+    text-align: center;
+    margin: -15px;
+}
+nav a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin: 25px;
+}
+header{
+    background-color: blanchedalmond;
+}
+main{
+    background-color: aqua;
+}
+.Studio{
+    border: 2px solid royalblue;
+    text-align: center;
+    border-radius: 15px;
+    background-color: royalblue;
+    color: black;
+    text-decoration: none;
+}
+.text2{
+    color: darkred;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.Web{
+    border: 2px solid royalblue;
+    border-radius: 15px;
+    color: black;
+    text-decoration: none;
+    background-color: royalblue;
+}
+footer{
+    background-color: blueviolet;
+}
+footer img{
+    text-align: center;
+    width: 50px;
+}
+.text3{
+color: darkblue;
+text-align: center;
+}
+.text4{
+    text-align: center;
+    color: red;
+}
+.text5{
+    color: green;
+    text-align: center;
+}
+.text6{
+    color: blue;
+    text-align: center;
+}
+.img1{
+    text-align: center;
+    font-size: 100px;
+}
+.td{
+    border: 1px solid green;
+    background-color: blue;
+    color: white;
+}
+.td2{
+    border: 1px solid green;
+}
+.img2{
+    text-align: center;
+}
